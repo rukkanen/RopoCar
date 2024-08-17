@@ -1,0 +1,9 @@
+[submodule "ARD2"]
+	path = ARD2
+	url = ./ARD1
+[submodule "ARD1"]
+	path = ARD1
+	url = ./ARD1
+[submodule "ESP1WS"]
+	path = ESP1WS
+	url = ./ESP1WS/
